@@ -6,7 +6,10 @@
 The goal is to predict if a client will subscribe a term deposit at the bank
 
 ## What is the data?
-This data is a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure the speed of processing.
+The data is a dataset related to the marketing of bank products over the telephone. It comes from the UC Irvine Machine Learning Repository.
+The data is from a Portuguese banking institution and is a collection of the results of multiple marketing campaigns. 
+The dataset collected is related to 17 campaigns that occurred between May 2008 and November 2010, corresponding to a total of 79354 contacts.
+It contains 41188 rows and 21 columns.
 
 ## What are the findings?
 
