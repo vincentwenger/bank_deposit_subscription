@@ -3,7 +3,9 @@
 **Assignment notebook:** https://github.com/vincentwenger/bank_deposit_subscription/blob/main/prompt_III.ipynb
 
 ## What is the problem?
-The goal is to predict if a client will subscribe a term deposit at the bank
+The goal is to predict if a client will subscribe a term deposit at the bank, which is a classification task.
+The target variable is the column "y" of the original dataset : "has the client subscribed a term deposit?(binary: 'yes','no')". The input variables are all the other columns of the original dataset.
+Since the target variable is binary (yes/no), this will be a binary classification problem.
 
 ## What is the data?
 The data is a dataset related to the marketing of bank products over the telephone. It comes from the UC Irvine Machine Learning Repository.
@@ -14,18 +16,7 @@ It contains 41188 rows and 21 columns.
 ## What are the findings?
 
 The findings are that :
-- we can predict the price of the car based on the attribute "year", "cylinders", "odometer". When analyzing the data we noticed that the average of price are :
-- higher in UT, cheaper in ME
-- higher for white car, cheaper for green car
-- higher for pickup, cheaper for mini-van
-- higher for full_size, cheaper for compact
-- higher for 4wd drive and cheaper for fwd drive
-- the transmission type doesn't seem to impact too much the price
-- higher for lien title_status and cheaper for parts only or salvage
-- higher for diesel fuel and cheaper for hybrid fuel
-- higher in general for more cylinders
-- higher when condition is new, cheaper when condition is fair or salvage
-- higher for ferrari and cheaper for toyota
+- 
 
 ## What do I recommend?
 
