@@ -3,7 +3,7 @@
 **Assignment notebook:** https://github.com/vincentwenger/bank_deposit_subscription/blob/main/prompt_III.ipynb
 
 ## What is the problem?
-This project aims to understand what factors of the vehicle will drive the price of the vehicle. The goal is to understand what factors make a car more or less expensive.
+The goal is to predict if a client will subscribe a term deposit
 
 ## What is the data?
 This data is a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure the speed of processing.
