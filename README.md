@@ -1,6 +1,6 @@
 # What factors influence the price of a vehicle?
 
-**Assignment notebook:** https://github.com/vincentwenger/vehicle_price_factors/blob/main/prompt_II.ipynb
+**Assignment notebook:** https://github.com/vincentwenger/bank_deposit_subscription/blob/main/prompt_III.ipynb
 
 ## What is the problem?
 This project aims to understand what factors of the vehicle will drive the price of the vehicle. The goal is to understand what factors make a car more or less expensive.
