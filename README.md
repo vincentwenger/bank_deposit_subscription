@@ -1,4 +1,4 @@
-# What factors influence the price of a vehicle?
+# Will the client subscribe a term deposit?
 
 **Assignment notebook:** https://github.com/vincentwenger/bank_deposit_subscription/blob/main/prompt_III.ipynb
 
