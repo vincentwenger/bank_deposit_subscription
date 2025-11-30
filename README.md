@@ -3,7 +3,7 @@
 **Assignment notebook:** https://github.com/vincentwenger/bank_deposit_subscription/blob/main/prompt_III.ipynb
 
 ## What is the problem?
-The goal is to predict if a client will subscribe a term deposit
+The goal is to predict if a client will subscribe a term deposit at the bank
 
 ## What is the data?
 This data is a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure the speed of processing.
