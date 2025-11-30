@@ -16,7 +16,10 @@ It contains 41188 rows and 21 columns.
 ## What are the findings?
 
 The findings are that :
-- 
+- After checking how imbalanced is the Output variable, we could see that about 11% of the desired target class is yes so the class is imbalanced
+- In the data, for original fields default, housing, loan, y, we could consider changing the datatype of the columns to boolean since those are binary columns. We would need to default value "unknow" to "no"
+- For original fields month and day_of_week we could consider changing the datatype to integer after converting the values to integer
+- We were able to create a baseline model using a DummyClassifier which has strategy "most frequent". Therefore all its predictions were "no". It had a test accuracy around 88%, and a test recall and test F1 of 0%
 
 ## What do I recommend?
 
